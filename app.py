@@ -8,7 +8,7 @@ def multiply(a, b):
     return a * b
 def divide(a, b):
     return a / b
-print(add(1, 2))
-print(subtract(1, 2))
+print(add(3, 8))
+print(subtract(6,7))
 print(multiply(1, 2))
 print(divide(1, 2))
